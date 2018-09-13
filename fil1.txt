@@ -1,1 +1,5 @@
 Lite text i file1
+
+
+nu har jag lagt till några rader i file1
+Rad till...
